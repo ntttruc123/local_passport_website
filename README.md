@@ -1,6 +1,6 @@
 # local_passport_website
 # 1. Run node app.js
-[runapp](assets/image.png)
+![pic1](assets/image.png)
 # 2. Đăng ký tài khoản với username và password
 ![regis](assets/image-1.png)
 # Kiểm tra CSDL có lưu thành công tài khoản người dùng
